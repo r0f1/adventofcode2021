@@ -2,7 +2,7 @@
 
 |Day|Name|Solution|
 |---|---|---|
-|[01](https://adventofcode.com/2021/day/1)|Sonar Sweep|[py](/day01/main.py)|
+|[01](https://adventofcode.com/2021/day/1)|Sonar Sweep|[py](/day01/main.py), [alt](/day01/alt.py)|
 |[02](https://adventofcode.com/2021/day/2)|||
 |[03](https://adventofcode.com/2021/day/3)|||
 |[04](https://adventofcode.com/2021/day/4)|||

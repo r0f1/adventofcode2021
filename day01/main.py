@@ -1,5 +1,4 @@
-from itertools import pairwise
-from more_itertools import windowed
+from more_itertools import pairwise, windowed
 
 with open("input.txt") as f:
     depths = [int(x) for x in f]
