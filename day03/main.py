@@ -5,7 +5,6 @@ with open("input.txt") as f:
 l = len(cols[0]) / 2
 gamma = "".join("1" if sum(c) > l else "0" for c in cols)
 epsilon = "".join("1" if x == "0" else "0" for x in gamma)
-
 print(int(gamma, 2) * int(epsilon, 2))
 
 # Part 2
