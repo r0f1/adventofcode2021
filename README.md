@@ -4,7 +4,7 @@
 |---|---|---|
 |01|[Sonar Sweep](https://adventofcode.com/2021/day/1)|[py](/day01/main.py), [alt](/day01/alt.py)|
 |02|[Dive!](https://adventofcode.com/2021/day/2)|[py](/day02/main.py)|
-|03|||
+|03|[Binary Diagnostic](https://adventofcode.com/2021/day/3)|[py](/day03/main.py)|
 |04|||
 |05|||
 |06|||
@@ -27,3 +27,5 @@
 |23|||
 |24|||
 |25|||
+
+My solutions from last year: [r0f1/adventofcode2020](https://github.com/r0f1/adventofcode2020).
