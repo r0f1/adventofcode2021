@@ -1,4 +1,3 @@
-
 # Part 1
 with open("input.txt") as f:
     cols = list(zip(*[[int(i) for i in x.strip()] for x in f]))
