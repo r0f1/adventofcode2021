@@ -5,7 +5,7 @@
 |01|[Sonar Sweep](https://adventofcode.com/2021/day/1)|[py](/day01/main.py), [alt](/day01/alt.py)|
 |02|[Dive!](https://adventofcode.com/2021/day/2)|[py](/day02/main.py)|
 |03|[Binary Diagnostic](https://adventofcode.com/2021/day/3)|[py](/day03/main.py)|
-|04|||
+|04|[Giant Squid](https://adventofcode.com/2021/day/4)|[py](/day04/main.py)|
 |05|||
 |06|||
 |07|||
