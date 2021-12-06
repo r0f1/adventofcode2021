@@ -3,7 +3,10 @@ from collections import Counter, defaultdict
 with open("input.txt") as f:
     c = Counter([int(x) for x in list(f)[0].split(",")])
 
-for i in range(80): # replace by 256 for part 2
+for i in range(256):
+    if i == 80:
+        print(sum(c.values()))
+        
     d = defaultdict(int)
     for k, v in sorted(c.items()):
         if k == 0:
