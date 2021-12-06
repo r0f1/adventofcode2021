@@ -7,7 +7,7 @@
 |03|[Binary Diagnostic](https://adventofcode.com/2021/day/3)|[py](/day03/main.py)|
 |04|[Giant Squid](https://adventofcode.com/2021/day/4)|[py](/day04/main.py), [alt](/day04/alt.py)|
 |05|[Hydrothermal Venture](https://adventofcode.com/2021/day/5)|[py](/day05/main.py)|
-|06|||
+|06|[Lanternfish](https://adventofcode.com/2021/day/6)|[py](/day06/main.py)|
 |07|||
 |08|||
 |09|||
