@@ -12,7 +12,7 @@
 |08|[Seven Segment Search](https://adventofcode.com/2021/day/8)|[py](/day08/main.py)|
 |09|[Smoke Basin](https://adventofcode.com/2021/day/9)|[py](/day09/main.py)|
 |10|[Syntax Scoring](https://adventofcode.com/2021/day/10)|[py](/day10/main.py), [alt](/day10/alt.py)|
-|11|||
+|11|[Dumbo Octopus](https://adventofcode.com/2021/day/11)|[py](/day11/main.py)|
 |12|||
 |13|||
 |14|||
