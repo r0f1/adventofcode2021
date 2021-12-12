@@ -13,7 +13,7 @@
 |09|[Smoke Basin](https://adventofcode.com/2021/day/9)|[py](/day09/main.py)|
 |10|[Syntax Scoring](https://adventofcode.com/2021/day/10)|[py](/day10/main.py), [alt](/day10/alt.py)|
 |11|[Dumbo Octopus](https://adventofcode.com/2021/day/11)|[py](/day11/main.py)|
-|12|||
+|12|[Passage Pathing](https://adventofcode.com/2021/day/12)|[py](/day12/main.py)|
 |13|||
 |14|||
 |15|||
