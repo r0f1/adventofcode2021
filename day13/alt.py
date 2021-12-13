@@ -12,7 +12,7 @@ for i, (k, v) in enumerate(fs):
     if i == 0:
         print(len(ns))
 
-max_x, max_y = max(x for x, _ in ns), max(y for _, y in ns)
+max_x, max_y = [max(v) for v in zip(*ns)]
 for y in range(max_y+1):
     for x in range(max_x+1):
         if (x,y) in ns:
