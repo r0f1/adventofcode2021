@@ -16,7 +16,7 @@
 |12|[Passage Pathing](https://adventofcode.com/2021/day/12)|[py](/day12/main.py)|
 |13|[Transparent Origami](https://adventofcode.com/2021/day/13)|[py](/day13/main.py), [alt](/day13/alt.py)|
 |14|[Extended Polymerization](https://adventofcode.com/2021/day/14)|[py](/day14/main.py)|
-|15|[Chiton](https://adventofcode.com/2021/day/15)|[py](/day15/main.py)|
+|15|[Chiton](https://adventofcode.com/2021/day/15)|[py](/day15/main.py), [alt](/day15/alt.py)|
 |16|||
 |17|||
 |18|||
