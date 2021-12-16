@@ -1,8 +1,7 @@
 from math import prod
 
 def convert_hex_to_bin(s):
-    d = dict((f"{k:x}".upper(), f"{k:04b}") for k in range(16))
-    return "".join(d[i] for i in s)
+    return "".join(f"{int(x, 16):04b}" for x in s)
 
 def parse_nr(s):
     ptr = 0
@@ -15,10 +14,10 @@ def parse_nr(s):
     return 5*len(res), int("".join(res), base=2)
 
 def parse_msg(s):
-    ptr = 0
-    version = int(s[ptr:ptr+3],   base=2)
-    type_id = int(s[ptr+3:ptr+6], base=2)
-    ptr += 6
+    version = int( s[:3], base=2)
+    type_id = int(s[3:6], base=2)
+    
+    ptr = 6
     if type_id == 4:
         p, n = parse_nr(s[ptr:])
         return version, n, ptr + p
