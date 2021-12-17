@@ -1,6 +1,6 @@
 from itertools import product
 
-def check_velocity_valid(dx, dy, target):
+def is_valid(dx, dy, target):
     tminx, tmaxx, tminy, tmaxy = target
     pos_x, pos_y = 0, 0
     while pos_x <= tmaxx and pos_y >= tminy:
@@ -9,10 +9,9 @@ def check_velocity_valid(dx, dy, target):
             return True
     return False
 
-def highest_y(y):
-    return (y+1) * y // 2
+gauss = lambda x: (x+1) * x // 2
 
 target = 150, 171, -129, -70
-velocities = [dy for dx, dy in product(range(1000), range(-1000, 1000)) if check_velocity_valid(dx, dy, target)]
-print(highest_y(max(velocities)))
+velocities = [dy for dx, dy in product(range(1000), range(-1000, 1000)) if is_valid(dx, dy, target)]
+print(gauss(max(velocities)))
 print(len(velocities))
