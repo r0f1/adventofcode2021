@@ -19,7 +19,7 @@
 |15|[Chiton](https://adventofcode.com/2021/day/15)|[py](/day15/main.py), [alt](/day15/alt.py)|
 |16|[Packet Decoder](https://adventofcode.com/2021/day/16)|[py](/day16/main.py)|
 |17|[Trick Shot](https://adventofcode.com/2021/day/17)|[py](/day17/main.py)|
-|18|||
+|18|[Snailfish](https://adventofcode.com/2021/day/18)|[py](/day18/main.py)|
 |19|||
 |20|||
 |21|||
