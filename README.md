@@ -20,7 +20,7 @@
 |16|[Packet Decoder](https://adventofcode.com/2021/day/16)|[py](/day16/main.py)|
 |17|[Trick Shot](https://adventofcode.com/2021/day/17)|[py](/day17/main.py)|
 |18|[Snailfish](https://adventofcode.com/2021/day/18)|[py](/day18/main.py)|
-|19|||
+|19|[Beacon Scanner](https://adventofcode.com/2021/day/19)|[py](/day19/main.py)|
 |20|||
 |21|||
 |22|||
