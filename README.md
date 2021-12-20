@@ -21,7 +21,7 @@
 |17|[Trick Shot](https://adventofcode.com/2021/day/17)|[py](/day17/main.py)|
 |18|[Snailfish](https://adventofcode.com/2021/day/18)|[py](/day18/main.py)|
 |19|[Beacon Scanner](https://adventofcode.com/2021/day/19)|[py](/day19/main.py)|
-|20|||
+|20|[Trench Map](https://adventofcode.com/2021/day/20)|[py](/day20/main.py)|
 |21|||
 |22|||
 |23|||
