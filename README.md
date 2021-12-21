@@ -22,7 +22,7 @@
 |18|[Snailfish](https://adventofcode.com/2021/day/18)|[py](/day18/main.py)|
 |19|[Beacon Scanner](https://adventofcode.com/2021/day/19)|[py](/day19/main.py)|
 |20|[Trench Map](https://adventofcode.com/2021/day/20)|[py](/day20/main.py)|
-|21|||
+|21|[Dirac Dice](https://adventofcode.com/2021/day/21)|[py](/day21/main.py)|
 |22|||
 |23|||
 |24|||
