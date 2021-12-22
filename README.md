@@ -23,7 +23,7 @@
 |19|[Beacon Scanner](https://adventofcode.com/2021/day/19)|[py](/day19/main.py)|
 |20|[Trench Map](https://adventofcode.com/2021/day/20)|[py](/day20/main.py)|
 |21|[Dirac Dice](https://adventofcode.com/2021/day/21)|[py](/day21/main.py)|
-|22|||
+|22|[Reactor Reboot](https://adventofcode.com/2021/day/22)|[py](/day22/part1.py), [py](/day22/part2.py)|
 |23|||
 |24|||
 |25|||
