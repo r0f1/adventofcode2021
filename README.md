@@ -24,8 +24,8 @@
 |20|[Trench Map](https://adventofcode.com/2021/day/20)|[py](/day20/main.py)|
 |21|[Dirac Dice](https://adventofcode.com/2021/day/21)|[py](/day21/main.py)|
 |22|[Reactor Reboot](https://adventofcode.com/2021/day/22)|[py](/day22/part1.py), [py](/day22/part2.py)|
-|23|||
-|24|||
-|25|||
+|23|[Amphipod](https://adventofcode.com/2021/day/23)|[py](/day23/main.py)|
+|24|[Arithmetic Logic Unit](https://adventofcode.com/2021/day/24)|[py](/day24/main.py)|
+|25|[Sea Cucumber](https://adventofcode.com/2021/day/25)|[py](/day25/main.py)|
 
 My solutions from last year: [r0f1/adventofcode2020](https://github.com/r0f1/adventofcode2020).
