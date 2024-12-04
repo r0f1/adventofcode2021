@@ -1,6 +1,6 @@
 # :christmas_tree: Advent of Code 2021 :christmas_tree:
 
-|Day|Name|Solution|
+| Day | Name | Solution |
 |---|---|---|
 |01|[Sonar Sweep](https://adventofcode.com/2021/day/1)|[py](/day01/main.py), [alt](/day01/alt.py)|
 |02|[Dive!](https://adventofcode.com/2021/day/2)|[py](/day02/main.py)|
